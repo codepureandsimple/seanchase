@@ -1,1 +1,1 @@
-# seanchase
+# Sean Chase
