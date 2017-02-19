@@ -1,5 +1,5 @@
 # Sean Chase
-Welcome! Please note I am still transferring information and projects from my old Github account at https://github.com/unboxedsolutions. 
+Welcome! Please note I am still transferring information and projects from [my old Github account](https://github.com/unboxedsolutions). 
 
 ## [Resume](https://codepureandsimple.github.io/seanchase/resume.pdf)
 Here are some of my publications on [Medium](https://codepureandsimple.com/).
